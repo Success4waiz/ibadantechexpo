@@ -1391,7 +1391,7 @@ hr{
         background-color: #224093;
         color: white;
         border: none;
-        left: 100px;
+        left: 80px;
         border-radius: 10px;
         text-decoration: none;
         /* color: #3a0303; */
@@ -1529,7 +1529,7 @@ hr{
     }
     .section8 h1{
       font-size: 22px;
-      width: 200px;
+      width: 230px;
       line-height: 60px;
       font-weight: 800;
     }
@@ -1602,7 +1602,7 @@ hr{
       background-color: #132351;
       color: white;
       padding: 15px 70px;
-      width: 414px;
+      width: 400px;
       flex-direction: column;
       gap: 20px;
      
